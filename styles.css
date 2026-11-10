@@ -618,3 +618,10 @@ blockquote {
         animation-duration: .01ms !important;
     }
 }
+body {
+    background: red !important;
+}
+
+h1 {
+    color: blue !important;
+}
